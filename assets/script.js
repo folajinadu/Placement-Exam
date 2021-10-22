@@ -1,6 +1,3 @@
-// HINT: You can delete this console.log after you no longer need it!
-console.log('JavaScript code has loaded!')
-
 // First, tell us your name
 let yourName = "Fuad O. Jinadu" // HINT: Replace this with your own name!
 
@@ -13,8 +10,9 @@ let myTotal = 0 //total order
 // Code to update name display 
 document.getElementById('credit').textContent = `Created by ${yourName}`
 
-
-
+//////////////////////////////// Start "+" /////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////
+//-------------------------------------------------------------------------------------------------------
 // Event listener for clicks on the "+" button for Ginger Bread cookies
 document.getElementById('add-gb').addEventListener('click', function() {
 
